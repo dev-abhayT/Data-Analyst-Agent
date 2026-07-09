@@ -1,0 +1,29 @@
+.env
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+node_modules/
+.next/
+dist/
+build/
+*.egg-info/
+.DS_Store
+*.log
+*.tsbuildinfo
+.mcp.json
+
+*.db
+*.db-shm
+*.db-wal
+data/
+
+# spec/harness scaffolding and prompt files
+spec/
+harness/
+.claude/
+src/prompts/
+
+# Claude Code project files
+CLAUDE.md
